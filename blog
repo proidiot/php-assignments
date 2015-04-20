@@ -1,0 +1,9 @@
+pick a php framework
+create the blog post table in database
+create a web page that displays the latest blog post
+show all the blog posts
+add pagination
+add sessions
+create the author table in database
+create author login page with forced ssl
+

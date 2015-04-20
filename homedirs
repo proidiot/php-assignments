@@ -1,0 +1,12 @@
+start with hello world
+dump /etc/passwd into code block
+add line numbers inside code block
+parse /etc/passwd into full table
+remove password (column 2)
+put home directory first
+only write name from info (before first comma)
+remove users who have false or nologon as shell
+pull /etc/group into array
+look up group id and replace with group name
+remove user id, group name, username, and shell
+get permissions of home folders

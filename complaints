@@ -1,0 +1,29 @@
+add simple form with submit button
+indicate if page was posted to
+add name text box
+validate name (assure name is not empty)
+email on post
+add comment field
+validate comment field (assure there is no html)
+add email field and validate
+create comment table in database
+store to database on post instead of emailing
+prevent SQL injection
+force ssl
+add session cookies
+show preview
+prevent xsrf
+prevent xss
+create admin user table in database
+create admin login page
+show list of comments sent
+create latest comment view page
+change to view based on comment id
+add hyperlinks to comment list
+paginate comment list
+add status to comment table
+show status on comment list
+add xsrf to login and comment post
+add comment flags for admin
+add captcha to comment page
+make ajaxy
